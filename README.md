@@ -1,6 +1,6 @@
 ### Hi there, I am Joshua Frey 👋
 
-- 🌱 I’m currently learning Data Mining and Machine Learning on Udemy
+- 🌱 I’m currently learning Data Science and Machine Learning on Udemy
 - 🔭 I’m planning on working on a Professional Call of Duty Match Dataset to perform data mining tasks. (Also plan on making prediction models for Premier League Matches)
 - 🤔 I’m looking for help with landing my first job as a developer!
 - 📫 How to reach me: joshua.h.frey@gmail.com
