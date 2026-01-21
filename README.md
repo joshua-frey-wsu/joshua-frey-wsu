@@ -1,8 +1,8 @@
 ### Hi there, I am Joshua Frey 👋
 
-- 🌱 I’m currently learning Data Science and Machine Learning on Udemy
-- 🔭 I’m planning on working on a Professional Call of Duty Match Dataset to perform data mining tasks. (Also plan on making prediction models for Premier League Matches)
-- 🤔 I’m looking for help with landing my first job as a developer!
+- 🌱 I’m currently working on a Full-Stack Web application for users who have GI issues to track symptoms and find patterns.
+- 🔭 I’m planning on building a http server from scratch and learning Data Science in the future. 
+- 🤔 I’m looking for help with landing my first full-time position as a developer!
 - 📫 How to reach me: joshua.h.frey@gmail.com
 - ⚡ Fun fact: I love watching both sports and esports (Primarily Call of duty/Halo)
 
